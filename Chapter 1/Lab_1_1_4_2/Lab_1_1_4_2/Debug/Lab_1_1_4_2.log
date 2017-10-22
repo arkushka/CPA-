@@ -1,0 +1,6 @@
+﻿  Lab1142.cpp
+d:\фрекс кну\практика\cpa ess\chapter 1\lab_1_1_4_2\lab_1_1_4_2\lab1142.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\фрекс кну\практика\cpa ess\chapter 1\lab_1_1_4_2\lab_1_1_4_2\lab1142.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\фрекс кну\практика\cpa ess\chapter 1\lab_1_1_4_2\lab_1_1_4_2\lab1142.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab_1_1_4_2.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 1\Lab_1_1_4_2\Debug\Lab_1_1_4_2.exe
+  Lab_1_1_4_2.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 1\Lab_1_1_4_2\Debug\Lab_1_1_4_2.pdb (Partial PDB)
