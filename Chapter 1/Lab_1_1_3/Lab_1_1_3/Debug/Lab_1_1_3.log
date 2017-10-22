@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab113.cpp
+d:\фрекс кну\практика\cpa ess\chapter 1\lab_1_1_3\lab_1_1_3\lab113.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab_1_1_3.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 1\Lab_1_1_3\Debug\Lab_1_1_3.exe
+  Lab_1_1_3.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 1\Lab_1_1_3\Debug\Lab_1_1_3.pdb (Partial PDB)
