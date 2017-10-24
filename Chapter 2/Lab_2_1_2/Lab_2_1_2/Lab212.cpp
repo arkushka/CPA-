@@ -9,11 +9,11 @@ using namespace std;
 int main(void) {
 	float grossprice, taxrate, netprice, taxvalue;
 	do {
-		cout << "Enter a gross price: "; // валова ціна
+		cout << "Enter a gross price: "; 
 		cin >> grossprice;
 	} while (grossprice < 0);
 	do {
-		cout << "Enter a tax rate: "; // ставка податку
+		cout << "Enter a tax rate: "; 
 		cin >> taxrate;
 	} while (taxrate < 0 || taxrate > 100);
 
@@ -22,7 +22,8 @@ int main(void) {
 	netprice = 100*grossprice / (taxrate + 100);
 	taxvalue = grossprice - netprice;
 
-	cout << "Net price: " << netprice << endl; // фактична ціна 
-	cout << "Tax value: " << taxvalue << endl; // вартість податку
+	cout << "Net price: " << netprice << endl; 
+	cout << "Tax value: " << taxvalue << endl; 
 	return 0;
-}
+}
+
