@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab38.cpp
+d:\фрекс кну\практика\cpa ess\chapter 3\lab_3_8\lab_3_8\lab38.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab_3_8.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 3\Lab_3_8\Debug\Lab_3_8.exe
+  Lab_3_8.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 3\Lab_3_8\Debug\Lab_3_8.pdb (Partial PDB)
