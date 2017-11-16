@@ -1,0 +1,4 @@
+﻿  Lab41.cpp
+d:\фрекс кну\практика\cpa ess\chapter 4\lab_4_1\lab_4_1\lab41.cpp(22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lab_4_1.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 4\Lab_4_1\Debug\Lab_4_1.exe
+  Lab_4_1.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 4\Lab_4_1\Debug\Lab_4_1.pdb (Partial PDB)
