@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Lab722.cpp
+d:\фрекс кну\практика\cpa ess\chapter 7\lab_7_2_2\lab_7_2_2\lab722.cpp(22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\фрекс кну\практика\cpa ess\chapter 7\lab_7_2_2\lab_7_2_2\lab722.cpp(33): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\фрекс кну\практика\cpa ess\chapter 7\lab_7_2_2\lab_7_2_2\lab722.cpp(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\фрекс кну\практика\cpa ess\chapter 7\lab_7_2_2\lab_7_2_2\lab722.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lab_7_2_2.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 7\Lab_7_2_2\Debug\Lab_7_2_2.exe
+  Lab_7_2_2.vcxproj -> D:\ФРЕКС КНУ\Практика\CPA Ess\Chapter 7\Lab_7_2_2\Debug\Lab_7_2_2.pdb (Partial PDB)
